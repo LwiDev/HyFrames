@@ -1,0 +1,21 @@
+<UITemplate>
+  <ItemSlot>
+    <Size Width="50" Height="50"/>
+    <Border>
+      <Color R="139" G="90" B="43" A="255"/>
+      <Thickness>2</Thickness>
+    </Border>
+    <Background>
+      <Color R="62" G="39" B="20" A="200"/>
+    </Background>
+    <ItemDisplay>
+      <ShowCount>true</ShowCount>
+      <ShowTooltip>true</ShowTooltip>
+    </ItemDisplay>
+    <Interactions>
+      <AllowDrag>true</AllowDrag>
+      <AllowDrop>true</AllowDrop>
+      <AllowRemove>true</AllowRemove>
+    </Interactions>
+  </ItemSlot>
+</UITemplate>

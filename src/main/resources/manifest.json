@@ -1,0 +1,21 @@
+{
+  "Group": "LwiDev",
+  "Name": "HyFrames",
+  "Version": "1.0.0",
+  "Main": "ca.lwi.hyframes.HyFrames",
+  "Description": "Item frames in Hytale",
+  "Authors": [
+    {
+      "Name": "Lwi",
+      "Email": "contact@lwidev.com",
+      "Url": "https://lwidev.com"
+    }
+  ],
+  "Website": "https://lwidev.com",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}
