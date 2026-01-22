@@ -34,8 +34,9 @@
     },
     "ParticleColor": "#5b3222",
     "Interactions": {
-      "Primary": {
-        "Type": "Item_Frame_Open"
+      "Secondary": {
+        "Type": "OpenCustomUI",
+        "Id": "Item_Frame_Open"
       }
     }
   },
